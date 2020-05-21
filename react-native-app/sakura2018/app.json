@@ -22,6 +22,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "facebookAppId":"376297829520111",
+    "facebookDisplayName":"tachibanaWangan"
   }
 }
